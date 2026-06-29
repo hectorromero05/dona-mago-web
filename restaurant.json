@@ -1,0 +1,163 @@
+{
+  "nombre": "Doña Mago",
+  "telefono": "+523336148928",
+  "whatsapp": "+523336148928",
+  "google_maps": "https://www.google.com/maps/place/Do%C3%B1a+Mago/@20.6661379,-103.3528806,17z/data=!4m6!3m5!1s0x8428b1f888bdf9a7:0xac6ae185124c2111!8m2!3d20.6660777!4d-103.3497089!16s%2Fg%2F1pt__3rd2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+  "direccion": "C. Nicolás Régules 63-Loc 23, Mexicaltzingo, 44180 Guadalajara, Jal.",
+  "horario": "Horario de atención",
+  "rating": "4.3",
+  "resenas": "0",
+  "nicho": "Google Maps URL",
+  "categoria": "Restaurante mexicano",
+  "sitio_web": "nan",
+  "tiene_web": "no",
+  "colores_sugeridos": [
+    "#1F2937",
+    "#B45309",
+    "#F8F1E7",
+    "#111827"
+  ],
+  "estilo_sugerido": "local, honesto y adaptable a las fotos reales del negocio",
+  "visual_profile": {
+    "concepto_visual": "restaurante local con identidad construida desde su nombre, categoría, ubicación y reseñas disponibles",
+    "colores": [
+      "#1F2937",
+      "#B45309",
+      "#F8F1E7",
+      "#111827"
+    ],
+    "tipografia_sugerida": "sans moderna con titulares de personalidad moderada",
+    "ambiente": "local, honesto y adaptable a las fotos reales del negocio",
+    "layout": "split hero",
+    "tono": "concreto, local y descriptivo; no usar adjetivos premium sin evidencia",
+    "diferenciadores": [
+      "Doña Mago",
+      "Restaurante mexicano"
+    ],
+    "evitar": [
+      "Una pausa francesa, elegante y cercana",
+      "Experiencia cálida y memorable",
+      "Restaurante premium",
+      "experiencia gastronómica única",
+      "sabores inolvidables",
+      "calidad y tradición",
+      "misma estructura visual de la plantilla",
+      "mismo hero reutilizado",
+      "misma tipografía en todas las demos",
+      "misma paleta para todos los restaurantes",
+      "textos genéricos no basados en datos reales"
+    ]
+  },
+  "analisis_visual_detallado": {
+    "tipo_negocio": "Restaurante mexicano",
+    "concepto_visual": "restaurante local con identidad construida desde su nombre, categoría, ubicación y reseñas disponibles",
+    "colores": [
+      "#1F2937",
+      "#B45309",
+      "#F8F1E7",
+      "#111827"
+    ],
+    "tipografia_sugerida": "sans moderna con titulares de personalidad moderada",
+    "ambiente": "local, honesto y adaptable a las fotos reales del negocio",
+    "estilo_visual": "local, honesto y adaptable a las fotos reales del negocio",
+    "layout": "split hero",
+    "layouts_disponibles": [
+      "split hero",
+      "full background hero",
+      "editorial menu",
+      "cards grid",
+      "dark neon bar",
+      "rustic parrilla",
+      "coastal seafood",
+      "minimalist cafe",
+      "street food energetic"
+    ],
+    "tono": "concreto, local y descriptivo; no usar adjetivos premium sin evidencia",
+    "secciones_recomendadas": [
+      "Hero",
+      "Especialidades",
+      "Ambiente",
+      "Menú",
+      "Mapa",
+      "Reseñas",
+      "CTA"
+    ],
+    "palabras_clave_marca": [
+      "local",
+      "cercano",
+      "sabor",
+      "ubicación",
+      "reseñas",
+      "Doña Mago",
+      "Restaurante mexicano"
+    ],
+    "diferenciadores": [
+      "Doña Mago",
+      "Restaurante mexicano"
+    ],
+    "evitar": [
+      "Una pausa francesa, elegante y cercana",
+      "Experiencia cálida y memorable",
+      "Restaurante premium",
+      "experiencia gastronómica única",
+      "sabores inolvidables",
+      "calidad y tradición",
+      "misma estructura visual de la plantilla",
+      "mismo hero reutilizado",
+      "misma tipografía en todas las demos",
+      "misma paleta para todos los restaurantes",
+      "textos genéricos no basados en datos reales"
+    ]
+  },
+  "palabras_clave_seo": [
+    "Doña Mago",
+    "Google Maps URL",
+    "Google Maps URL cerca de mí",
+    "restaurante en Guadalajara",
+    "reservaciones por WhatsApp"
+  ],
+  "meta_description": "Conoce Doña Mago, Google Maps URL con ubicación, menú, reseñas y reservaciones por WhatsApp.",
+  "servicios": [
+    "Reservaciones",
+    "Pedidos por WhatsApp",
+    "Ubicación en Google Maps",
+    "Menú destacado"
+  ],
+  "botones": [
+    {
+      "texto": "Reservar por WhatsApp",
+      "tipo": "whatsapp",
+      "url": "https://wa.me/523336148928"
+    },
+    {
+      "texto": "Cómo llegar",
+      "tipo": "maps",
+      "url": "https://www.google.com/maps/place/Do%C3%B1a+Mago/@20.6661379,-103.3528806,17z/data=!4m6!3m5!1s0x8428b1f888bdf9a7:0xac6ae185124c2111!8m2!3d20.6660777!4d-103.3497089!16s%2Fg%2F1pt__3rd2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+    }
+  ],
+  "redes_sociales": {
+    "instagram": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "imagenes": {
+    "hero": "/hero.jpg",
+    "logo": "/logo.png",
+    "galeria": [
+      "/galeria1.jpg",
+      "/galeria2.jpg",
+      "/galeria3.jpg"
+    ]
+  },
+  "secciones_sugeridas": [
+    "Hero",
+    "Historia",
+    "Especialidades",
+    "Galería",
+    "Menú",
+    "Mapa",
+    "Reseñas",
+    "CTA final",
+    "Footer"
+  ]
+}
